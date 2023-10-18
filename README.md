@@ -15,7 +15,7 @@ get  to the project folder terminal and create vue project command
 
 npm create vue@latest
 
-# Inside the peoject folder install node
+# Inside the project folder install node
 npm install  
 to impost nodemodules
  # edit the src folder
